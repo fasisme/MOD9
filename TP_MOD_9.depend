@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555155565 source:d:\cpp\struktur data\tp_mod_9\main.cpp
+	<iostream>
+	"BST.h"
+
+1555153186 d:\cpp\struktur data\tp_mod_9\bst.h
+	<iostream>
+
+1555154881 source:d:\cpp\struktur data\tp_mod_9\bst.cpp
+	"BST.h"
+
